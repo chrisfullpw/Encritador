@@ -1,2 +1,2 @@
-# Encritador
+# Encriptador
 Encritador Alure latam-Oracle
